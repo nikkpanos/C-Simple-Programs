@@ -1,4 +1,4 @@
-# C-Simple-Programs
+# C-Programs
 
 # 1.Project1.c<br><br>
 Program to create the digital bit sequence of a given sample.<br><br>
