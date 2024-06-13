@@ -10,7 +10,7 @@ ample values<br>
 Output:<br>
 bit sequence for the above sample values and criteria<br>
 <br>
-============================================================================================<br>
+========================================================================<br>
 <br>            
 # 2.  Project2.c<br><br>
 Program to calculate the delay between two network nodes.<br><br>
@@ -24,7 +24,7 @@ Output:<br>
 Total delay for the packet to be received<br>
 Number of bits (of the packet) that will be received after a certain period of time<br>
 <br>
-============================================================================================<br>
+========================================================================<br>
 <br>
 # 3.  Project3.c<br><br>
 Program to calculate the delay between two network nodes.<br><br>
@@ -40,7 +40,7 @@ Total delay with and without fragmentation<br>
 <br>
 P.S.  Other kind of delays are not considered and we assume that a node does not wait to receive the whole packet before relaying it<br>
 <br>
-============================================================================================<br>
+========================================================================<br>
 <br>
 # 4.  Project4.c<br><br>
 Program to calculate the routing tables of a node in a network, using either Dijkstra's or Bellman-Ford's algorithm.<br><br>
